@@ -1,0 +1,7 @@
+POST http://localhost:8081/api/ricarica/avvia
+Content-Type: application/json
+
+{
+  "idUtente": "U123",
+  "idColonnina": 1
+}
